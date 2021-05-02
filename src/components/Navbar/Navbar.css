@@ -1,0 +1,7 @@
+.navbar ul li a, .navbar ul li Link{
+    text-decoration: none;
+}
+.navbar ul li a:hover, .navbar ul li Link:hover{
+    color: #F9004D;
+    border-bottom: 1px solid #F9004D;
+}
